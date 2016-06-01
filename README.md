@@ -1,36 +1,74 @@
-# Tech Knowledge
+Given the size of this resume, [I've created an executive summary to give you a faster review.](http://htmlpreview.github.io/?https://github.com/CodeOtter/resume/blob/master/index.html)
+
+# Contents
+
+* [Knowledge](#knowledge)
+* [Experience](#experience)
+* [Education](#education)
+* [References](#references)
+
+# Knowledge
 
 * NodeJS
- * [SailsJS](https://www.npmjs.com/package/sails)
- * [Socket.io](https://www.npmjs.com/package/socket.io)
- * [Express](https://www.npmjs.com/package/express)
- * [Grunt](https://www.npmjs.com/package/grunt)
- * [Gulp](https://www.npmjs.com/package/gulp)
- * [Browserify](https://www.npmjs.com/package/browserify)
- * [Webpack](https://www.npmjs.com/package/webpack)
- * [Forever](https://www.npmjs.com/package/forever)
- * [PM2](https://www.npmjs.com/package/pm2)
- * [Cluster](https://nodejs.org/api/cluster.html)
- * [Commander](https://www.npmjs.com/package/commander)
- * [Lodash](https://www.npmjs.com/package/lodash)/[Underscore](https://www.npmjs.com/package/underscore)
- * [Async](https://www.npmjs.com/package/async)
- * [Sequelize](https://www.npmjs.com/package/sequelize)
- * [Waterline](https://www.npmjs.com/package/waterline)
- * [Mongoose](https://www.npmjs.com/package/mongoose)
- * [Handlebars](https://www.npmjs.com/package/handlebars)
- * [Jasmine](https://www.npmjs.com/package/)
- * [Superagent](https://www.npmjs.com/package/superagent)/[Supertest](https://www.npmjs.com/package/supertest)
- * [Karma](https://www.npmjs.com/package/)
- * [BCrypt](https://www.npmjs.com/package/bcrypt)
- * [Brain](https://www.npmjs.com/package/brain)
- * [Blessed](https://www.npmjs.com/package/blessed)
- * [Sentiment](https://www.npmjs.com/package/sentiment)
+ * [SailsJS](https://www.npmjs.com/package/sails) - API framework
+ * [Socket.io](https://www.npmjs.com/package/socket.io) - Realtime socket server
+ * [Express](https://www.npmjs.com/package/express) - HTTP server
+ * [Grunt](https://www.npmjs.com/package/grunt) - Build tools
+ * [Gulp](https://www.npmjs.com/package/gulp) - Build tools
+ * [Browserify](https://www.npmjs.com/package/browserify) - Build tools
+ * [Webpack](https://www.npmjs.com/package/webpack) - Build tools
+ * [Forever](https://www.npmjs.com/package/forever) - Process manager
+ * [PM2](https://www.npmjs.com/package/pm2) - Process manager
+ * [Cluster](https://nodejs.org/api/cluster.html) - Multi-core programming
+ * [Commander](https://www.npmjs.com/package/commander) - CLI framework
+ * [Lodash](https://www.npmjs.com/package/lodash)/[Underscore](https://www.npmjs.com/package/underscore) - Helpers
+ * [Async](https://www.npmjs.com/package/async) - Flow helper
+ * [Sequelize](https://www.npmjs.com/package/sequelize) - ORM
+ * [Waterline](https://www.npmjs.com/package/waterline) - ORM
+ * [Mongoose](https://www.npmjs.com/package/mongoose) - ORM
+ * [Handlebars](https://www.npmjs.com/package/handlebars) - Templating library
+ * [Jasmine](https://www.npmjs.com/package/) - BDD test framework
+ * [Superagent](https://www.npmjs.com/package/superagent)/[Supertest](https://www.npmjs.com/package/supertest) - HTTP simulator for endpoint testing
+ * [BCrypt](https://www.npmjs.com/package/bcrypt) - Encryption tools
+ * [Brain](https://www.npmjs.com/package/brain) - Neural network library
+ * [Blessed](https://www.npmjs.com/package/blessed) - Terminal interface library
+ * [Sentiment](https://www.npmjs.com/package/sentiment) - Sentinment analysis library
+ * [JsonWebToken](https://www.npmjs.com/package/jsonwebtoken) - Sentinment analysis library
+ * [NPM](https://www.npmjs.com) - Dependency manager
 * JavaScript
- * Knockout
- * React
-  * Redux
- * jQuery
- * 
+ * [Knockout](http://knockoutjs.com/) - Model-View-ViewModel framework
+ * [React](https://facebook.github.io/react/) - One-way data flow library with virtual DOM management that updates only what has been changed
+ * [Flux](https://facebook.github.io/flux/docs/overview.html) - Centralized dispatcher and store management for React application
+ * [JSX](https://facebook.github.io/react/docs/jsx-in-depth.html) - Syntacitc sugar to represent UI compnents as XML tags for easier reusability and configuration.
+ * [Redux](http://redux.js.org/) - Predictable state container management for React programs
+ * [jQuery](https://jquery.com/) - The myth.  The legend.  One of the two Beasts of the Book of Revelation.
+ * [Karma](https://www.npmjs.com/package/) - Headless web page testing
+* PHP 5
+ * [Doctrine](http://www.doctrine-project.org/) - ORM
+ * [Symphony](https://symphony.com/) - HTTP SOA framework
+ * [Composer](https://getcomposer.org/) - Dependency manager
+* CSS
+ * [PureCSS](http://purecss.io/) - Simplified grid and responsive library
+ * [Bootstrap](http://getbootstrap.com/) - Heavy JS/CSS/HTML framework
+* Version Control
+ * Git
+ * Github
+ * Gitlab
+ * Bitbucket
+* Databases
+ * mySQL (MyISAM, InnoDB, BDB)
+ * MongoDB
+ * Postgres
+* Methodologies
+ * SOA
+ * REST
+ * Test-driven development
+ * Object-oriented programming
+ * Functional programming
+ * Flow-based programmer
+ * Dependency injection
+ * Extreme programming
+ * Planning poker
 
 # Experience
 
