@@ -42,6 +42,7 @@ Given the size of this resume, [I've created an executive summary to give you a 
  * [JSX](https://facebook.github.io/react/docs/jsx-in-depth.html) - Syntacitc sugar to represent UI compnents as XML tags for easier reusability and configuration.
  * [Redux](http://redux.js.org/) - Predictable state container management for React programs
  * [jQuery](https://jquery.com/) - The myth.  The legend.  One of the two Beasts of the Book of Revelation.
+ * [Cheerio](https://www.npmjs.com/package/cheerio) - Web scraper with jQuery-like syntax.
  * [Karma](https://www.npmjs.com/package/) - Headless web page testing
 * PHP 5
  * [Doctrine](http://www.doctrine-project.org/) - ORM
@@ -50,6 +51,14 @@ Given the size of this resume, [I've created an executive summary to give you a 
 * CSS
  * [PureCSS](http://purecss.io/) - Simplified grid and responsive library
  * [Bootstrap](http://getbootstrap.com/) - Heavy JS/CSS/HTML framework
+* IoT
+ * [SerialPort](https://www.npmjs.com/package/serialport) - Low-level I/O library
+ * [CylonJS](https://www.npmjs.com/package/cylon) - High-level I/O library
+ * [Node-RED](https://www.npmjs.com/package/node-red) - Visual wiring tool framework for I/O tasks
+* DevOps
+ * AWS
+ * Jenkins
+ * New Relic
 * Version Control
  * Git
  * Github
@@ -59,6 +68,20 @@ Given the size of this resume, [I've created an executive summary to give you a 
  * mySQL (MyISAM, InnoDB, BDB)
  * MongoDB
  * Postgres
+* Services/SDKs
+ * AWS
+ * Stripe
+ * Bill.com
+ * Braintree
+ * OpenTok
+ * Docusign
+ * ZeroPush
+ * PubNub
+ * ZenDesk
+ * Twitter
+ * Facebook
+ * Reddit
+ * HackerNews
 * Methodologies
  * SOA
  * REST
@@ -85,7 +108,7 @@ Given the size of this resume, [I've created an executive summary to give you a 
 - Constructing a massive SaaS platform that gathers real-time market activity to assist in opportunity detection.
 
 ### DropIn
-**Architext**, *July 2015 – Present (1 year)*, *Los Angeles, CA*
+**Architect**, *July 2015 – Present (1 year)*, *Los Angeles, CA*
 
 - Worked with Valensi Rose, PLC to provide investors with legal and business insight on how to integrate autonomous vehicles into DropIn's business plans.
 - Worked with Diamond Web Services and Silicon Prime to bring devops, mobile development, project management, quality assurance, and additional API support into the project.
