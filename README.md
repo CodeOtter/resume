@@ -33,7 +33,7 @@ Given the size of this resume, [I've created an executive summary to give you a 
  * [Brain](https://www.npmjs.com/package/brain) - Neural network library
  * [Blessed](https://www.npmjs.com/package/blessed) - Terminal interface library
  * [Sentiment](https://www.npmjs.com/package/sentiment) - Sentinment analysis library
- * [JsonWebToken](https://www.npmjs.com/package/jsonwebtoken) - Sentinment analysis library
+ * [JsonWebToken](https://www.npmjs.com/package/jsonwebtoken) - Allows for per-device sessions without central session management.
  * [NPM](https://www.npmjs.com) - Dependency manager
 * JavaScript
  * [Knockout](http://knockoutjs.com/) - Model-View-ViewModel framework
