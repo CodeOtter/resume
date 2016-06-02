@@ -88,7 +88,7 @@ Given the size of this resume, [I've created an executive summary to give you a 
  * Test-driven development
  * Object-oriented programming
  * Functional programming
- * Flow-based programmer
+ * Flow-based programming
  * Dependency injection
  * Extreme programming
  * Planning poker
