@@ -95,18 +95,6 @@ Given the size of this resume, [I've created an executive summary to give you a 
 
 # Experience
 
-### Emblem 21
-**CEO**, *March 2013 – Present (3 years 4 months)*, *Greater Los Angeles Area*
-
-- Researching multiple sectors (manufacturing, insurance, energy, financial, political, agriculture, waste management, mining, construction, distribution and logistics, transport, telecommunications) and regulatory structures (ITAR, FAA) to detect opportunities for autonomous labor.
-- Helping disparate industries understand how to creatively use drones to automate operations, reduce costs, and leverage productivity.
-- Building personal relationships with key players in the aforementioned sectors.
-- Creating business processes for account executives, data analysts, customer support, insurance/warranty claims, and inventory management with scaling and automation in mind.
-- Ensuring an environment of data-driven investor relations.
-- Coordinating an unquantifiable network of associates and complex favors to serve business objectives.
-- Solving the unsolvable; teaching others how to solve the unsolvable so I can solve bigger unsolvables solvingly.
-- Constructing a massive SaaS platform that gathers real-time market activity to assist in opportunity detection.
-
 ### DropIn
 **Architect**, *July 2015 – Present (1 year)*, *Los Angeles, CA*
 
